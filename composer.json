@@ -26,7 +26,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"grandmasterx\\safecharge\\": "api/"
+			"grandmasterx\\safecharge\\api\\": "api/"
 		}
 	}
 }
