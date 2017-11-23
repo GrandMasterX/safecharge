@@ -6,7 +6,7 @@ namespace grandmasterx\safecharge\api;
  * Class Utils
  * @package grandmasterx\safecharge\api
  */
-class Utils extends \stdClass
+class Utils
 {
 
     /**

@@ -6,7 +6,7 @@ namespace grandmasterx\safecharge\api\callbackStatuses;
  * Class StatusCallback
  * @package Omnipay\Safecharge\Message
  */
-class StatusCallback extends \stdClass
+class StatusCallback
 {
 
     /**
